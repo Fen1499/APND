@@ -1,0 +1,9 @@
+4
+1aI2I
+1bI1I
+2aI3IA
+2bI2I
+3aA20
+3bA3A
+20I4I
+\n
